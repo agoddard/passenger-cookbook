@@ -8,5 +8,6 @@
 
 
 gem_package "passenger" do
+  version "3.0.8"
   action :install
 end
